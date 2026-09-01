@@ -125,7 +125,7 @@ void solve(){
     vector<int> v(n , 0);
     v.push_back(0);
     rep(i , n){
-        cin>>v[i];
+        cin>>v[i+1];
     }
     if(n == 1){
         NO;
