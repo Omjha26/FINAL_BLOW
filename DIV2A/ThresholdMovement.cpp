@@ -133,7 +133,7 @@ void solve(){
     int prev = 0;
     int ok = true;
     for(int i = 1 ; i < n ; i++){
-        int
+        
     }
 
     if(ok){
