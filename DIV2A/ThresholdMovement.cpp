@@ -126,6 +126,8 @@ void solve(){
     rep(i , n){
         cin>>v[i];
     }
+
+    
 }
 
 int main() {
