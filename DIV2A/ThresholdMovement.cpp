@@ -153,7 +153,7 @@ void solve(){
         }
     }
 
-    
+    if(ok )
 }
 
 int main() {
