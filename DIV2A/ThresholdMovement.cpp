@@ -131,7 +131,7 @@ void solve(){
         return;
     }
     int mxm = 0 ;
-    int mnm = INT
+    int mnm = 
     for(int i = 1 ; i < n ; i++){
         
     }
