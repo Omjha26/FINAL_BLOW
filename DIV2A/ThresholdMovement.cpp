@@ -134,6 +134,7 @@ void solve(){
             prev = v[i];
             continue;
         }
+
         
     }
 }
