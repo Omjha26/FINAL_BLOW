@@ -130,7 +130,7 @@ void solve(){
         NO;
         return;
     }
-    
+    int mxm = 0 ;
     for(int i = 1 ; i < n ; i++){
         
     }
