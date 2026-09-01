@@ -142,7 +142,7 @@ void solve(){
     }
     bool ok = true;
 
-    if(mnm)
+    if(mnm - m)
     if(ok){
         YES;
     }
