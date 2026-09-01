@@ -142,7 +142,7 @@ void solve(){
     }
     bool ok = true;
 
-    if(mnm - mxm < 2){
+    if(absmnm - mxm < 2){
         ok = false;
     }
     if(ok){
