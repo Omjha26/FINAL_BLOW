@@ -130,7 +130,7 @@ void solve(){
     v.push_back(0);
     int mxm = 0 ;
     int mnm = 1e9 + 8;
-    for(int i = 1 ; i <= n  ; i++){
+    for(int i = 1 ; i <= n + 1 ; i++){
         if(i % 2 == 0){
             mxm = max(mxm , v[i]);
         }
