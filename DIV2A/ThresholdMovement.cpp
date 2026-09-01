@@ -127,7 +127,7 @@ void solve(){
     rep(i , n){
         cin>>v[i+1];
     }
-    v.push_
+    v.push_back()
     if(n == 1){
         NO;
         return;
