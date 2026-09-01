@@ -135,7 +135,7 @@ void solve(){
             continue;
         }
 
-        if(v[i] > )
+        if(v[i] > prev)
     }
 }
 
