@@ -140,7 +140,7 @@ void solve(){
             break;
         }
     }
-
+    
     for(int i = 1 ; i < n ; i += 2){
         if(i == 1){
             prev = v[i];
