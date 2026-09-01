@@ -3,4 +3,5 @@
 *.out
 *.o
 *.obj
+tempCodeRunnerFile.cpp
 build/
