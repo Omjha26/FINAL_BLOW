@@ -127,7 +127,7 @@ void solve(){
         cin>>v[i];
     }
     if(n == 1){
-        
+        cout<
     }
     int prev = 0;
     int ok = true;
