@@ -124,9 +124,7 @@ void solve(){
     cn;
     vector<int> v(n , 0);
     v.push_back(0);
-    rep(i , n){
-        cin>>v[i+1];
-    }
+    
     v.push_back(0);
     int mxm = 0 ;
     int mnm = 1e9 + 8;
