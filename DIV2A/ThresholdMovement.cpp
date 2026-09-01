@@ -127,7 +127,7 @@ void solve(){
         cin>>v[i];
     }
 
-
+    int prev
     for(int i = 0 ; i < n ; i += 2){
         if(i == 0){
             prev = v[i];
