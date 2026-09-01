@@ -127,7 +127,10 @@ void solve(){
         cin>>v[i];
     }
 
-        
+    if (n % 2 != 0) {
+        NO;
+        return;
+    }
     int mxm = 0 ;
     int mnm = 1e9 + 8;
     for(int i = 1 ; i <= n  ; i++){
