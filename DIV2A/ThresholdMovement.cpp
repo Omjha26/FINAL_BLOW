@@ -143,7 +143,7 @@ void solve(){
     bool ok = true;
 
     if(mnm - mxm < 2){
-        ok = f
+        ok = falase
     }
     if(ok){
         YES;
