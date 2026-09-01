@@ -126,7 +126,9 @@ void solve(){
     rep(i , n){
         cin>>v[i];
     }
-    if(n == 1)
+    if(n == 1){
+        
+    }
     int prev = 0;
     int ok = true;
     for(int i = 0 ; i < n ; i += 2){
