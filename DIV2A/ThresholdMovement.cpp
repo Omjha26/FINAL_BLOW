@@ -140,7 +140,7 @@ void solve(){
             mnm = min(mnm , v[i]);
         }
     }
-
+    
     if(ok){
         YES;
     }
