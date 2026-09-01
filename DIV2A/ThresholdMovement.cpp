@@ -136,6 +136,7 @@ void solve(){
         if(i % 2 == 1){
             mxm = max(mxm , v[i]);
         }
+        
     }
 
     if(ok){
