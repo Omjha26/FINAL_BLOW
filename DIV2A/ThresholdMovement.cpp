@@ -128,7 +128,7 @@ void solve(){
     }
     int mxm = 0 ;
     int mnm = 1e9 + 8;
-    for(int i = 1 ; i <= n + 1 ; i++){
+    for(int i = 1 ; i <= n + 1\\\ ; i++){
         if(i % 2 == 0){
             mxm = max(mxm , v[i]);
         }
@@ -138,7 +138,7 @@ void solve(){
     }
     bool ok = true;
 
-    if(!(mxm +  <= mnm)){
+    if(!(mxm + 2 <= mnm)){
         ok = false;
     }
     if(ok){
