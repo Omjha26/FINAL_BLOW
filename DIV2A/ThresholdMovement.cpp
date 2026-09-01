@@ -127,6 +127,7 @@ void solve(){
     rep(i , n){
         cin>>v[i+1];
     }
+    
     if(n == 1){
         NO;
         return;
