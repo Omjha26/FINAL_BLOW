@@ -133,7 +133,7 @@ void solve(){
     int prev = 0;
     int ok = true;
     for(int i = 1 ; i < n ; i++){
-        if(abs(v[i] - v[i-1]) == 1 || ){
+        if(abs(v[i] - v[i-1]) == 1 || abs(v[i] - v[i-1]) == 1){
             ok = false;
             break;
         }
