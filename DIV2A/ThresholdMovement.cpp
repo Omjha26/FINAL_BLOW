@@ -122,6 +122,7 @@ ll inverse(ll x){
 
 void solve(){
     cn;
+    vector<int> v;
     
 }
 
