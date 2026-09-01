@@ -123,7 +123,9 @@ ll inverse(ll x){
 void solve(){
     cn;
     vector<int> v;
-    rep(i , n)
+    rep(i , n){
+        cin>
+    }
 }
 
 int main() {
