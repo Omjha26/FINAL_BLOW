@@ -132,29 +132,7 @@ void solve(){
     }
     int prev = 0;
     int ok = true;
-    for(int i = 0 ; i < n ; i += 2){
-        if(i == 0){
-            prev = v[i];
-            continue;
-        }
-
-        if(v[i] > prev){
-            ok = false;
-            break;
-        }
-    }
-    prev = 0;
-    for(int i = 1 ; i < n ; i += 2){
-        if(i == 1){
-            prev = v[i];
-            continue;
-        }
-
-        if(v[i] > prev){
-            ok = false;
-            break;
-        }
-    }
+    
 
     if(ok){
         YES;
