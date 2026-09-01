@@ -134,6 +134,7 @@ void solve(){
     int ok = true;
     for(int i = 1 ; i < n ; i++){
         if(abs(a[i] - a[i-1]) == 1){
+            ok = false;
             
         }
     }
