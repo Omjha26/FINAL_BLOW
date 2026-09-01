@@ -124,7 +124,7 @@ void solve(){
     cn;
     vector<int> v;
     rep(i , n){
-        cin>
+        cin>>v[i]
     }
 }
 
