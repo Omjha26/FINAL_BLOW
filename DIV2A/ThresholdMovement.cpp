@@ -135,7 +135,7 @@ void solve(){
             continue;
         }
 
-        if(a[i])
+        if(v[i])
     }
 }
 
