@@ -154,7 +154,7 @@ void solve(){
     }
 
     if(ok){
-        
+        YES;
     }
 }
 
