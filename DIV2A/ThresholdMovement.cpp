@@ -138,7 +138,7 @@ void solve(){
     }
     bool ok = true;
 
-    if(!(mxm + r <= R)){
+    if(!(mxm + r <= )){
         ok = false;
     }
     if(ok){
