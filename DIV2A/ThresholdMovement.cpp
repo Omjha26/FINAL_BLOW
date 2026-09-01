@@ -127,7 +127,7 @@ void solve(){
         cin>>v[i];
     }
 
-    for
+    for(int i )
 }
 
 int main() {
