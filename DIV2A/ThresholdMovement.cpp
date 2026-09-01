@@ -136,7 +136,9 @@ void solve(){
         if(i % 2 == 1){
             mxm = max(mxm , v[i]);
         }
-        
+        else{
+            mnm = min(mnm , v[i])
+        }
     }
 
     if(ok){
