@@ -132,7 +132,9 @@ void solve(){
     }
     int prev = 0;
     int ok = true;
-    for(int i = 0 ; i < n ; i++)
+    for(int i = 0 ; i < n ; i++){
+        if()
+    }
 
     if(ok){
         YES;
