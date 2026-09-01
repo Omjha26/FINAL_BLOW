@@ -126,7 +126,6 @@ void solve(){
     for(int i = 1 ; i <= n ; i++){
         cin>>v[i];
     }
-    v.push_back(0);
     int mxm = 0 ;
     int mnm = 1e9 + 8;
     for(int i = 1 ; i <= n + 1 ; i++){
