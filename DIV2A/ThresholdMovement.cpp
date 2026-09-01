@@ -133,7 +133,7 @@ void solve(){
     int prev = 0;
     int ok = true;
     for(int i = 1 ; i < n ; i++){
-        if(abs(a[i] - a[i-1]) )
+        if(abs(a[i] - a[i-1]) !)
     }
 
     if(ok){
