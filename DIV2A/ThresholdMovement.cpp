@@ -121,6 +121,7 @@ ll inverse(ll x){
 }
 
 void solve(){
+    cn;
     
 }
 
