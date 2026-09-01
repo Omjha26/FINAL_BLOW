@@ -125,7 +125,7 @@ void solve(){
     vector<int> v(n , 0);
     v.push_back(0);
     for(int i = 1 ; i <= n ; i++){
-        cin>>
+        cin>>v
     }
     v.push_back(0);
     int mxm = 0 ;
