@@ -137,7 +137,7 @@ void solve(){
             mxm = max(mxm , v[i]);
         }
         else{
-            mnm = min(mnm , v[i])
+            mnm = min(mnm , v[i]);
         }
     }
 
