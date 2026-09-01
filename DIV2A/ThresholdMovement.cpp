@@ -128,6 +128,7 @@ void solve(){
     }
     if(n == 1){
         NO;
+        return;
     }
     int prev = 0;
     int ok = true;
