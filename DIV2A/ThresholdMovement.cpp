@@ -156,6 +156,9 @@ void solve(){
     if(ok){
         YES;
     }
+    else{
+        NO;
+    }
 }
 
 int main() {
