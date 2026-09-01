@@ -128,10 +128,6 @@ void solve(){
         cin>>v[i+1];
     }
     v.push_back(0);
-    if(n == 1){
-        NO;
-        return;
-    }
     int mxm = 0 ;
     int mnm = 1e9 + 8;
     for(int i = 1 ; i < n ; i++){
