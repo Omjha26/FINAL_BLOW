@@ -130,7 +130,7 @@ void solve(){
         NO;
         return;
     }
-    if
+    if()
     for(int i = 1 ; i < n ; i++){
         
     }
