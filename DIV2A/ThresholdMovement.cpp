@@ -138,7 +138,7 @@ void solve(){
     }
     bool ok = true;
 
-    if(!){
+    if(!()){
         ok = false;
     }
     if(ok){
