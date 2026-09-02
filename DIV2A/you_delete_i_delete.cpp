@@ -134,6 +134,8 @@ void solve(){
     while (s[i] != '1'){
         i++;
     }
+
+    
     
 }
 
