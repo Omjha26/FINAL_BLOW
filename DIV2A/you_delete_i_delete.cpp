@@ -135,7 +135,7 @@ void solve(){
         i++;
     }
     v[i] = true;
-    string ns = 
+    string ns = ""
     
 }
 
