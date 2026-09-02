@@ -133,7 +133,6 @@ void solve(){
     i = 0;
     while (s[i] != '1')
     {
-        /* code */
     }
     
 }
