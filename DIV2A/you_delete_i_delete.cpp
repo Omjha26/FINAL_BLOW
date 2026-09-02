@@ -123,9 +123,9 @@ ll inverse(ll x){
 void solve(){
     string s;
     cin>>s;
-
-    vector<bool> v;
     
+    vector<bool> v;
+
 }
 
 int main() {
