@@ -131,7 +131,11 @@ void solve(){
     }
     v[i] = true;
     i = 0;
-    wh
+    while (condition)
+    {
+        /* code */
+    }
+    
 }
 
 int main() {
