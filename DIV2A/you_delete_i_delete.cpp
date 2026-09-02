@@ -140,7 +140,7 @@ void solve(){
         if(v[i] == true){
             continue;
         }
-        
+        ns += s[i]
     }
     
 }
