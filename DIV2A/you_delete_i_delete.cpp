@@ -136,7 +136,9 @@ void solve(){
     }
     v[i] = true;
     string ns = "";
-    for(int i = 0 ; i < )
+    for(int i = 0 ; i < n ; i++){
+        i ()
+    }
     
 }
 
