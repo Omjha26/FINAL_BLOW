@@ -124,7 +124,7 @@ void solve(){
     string s;
     cin>>s;
 
-    vector
+    vector<
 }
 
 int main() {
