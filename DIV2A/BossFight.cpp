@@ -120,6 +120,8 @@ ll inverse(ll x){
     return binpow(x , MOD - 2 , MOD);
 }
 
+// minimal save-trigger test comment
+
 void solve(){
     cn;scan;
 
