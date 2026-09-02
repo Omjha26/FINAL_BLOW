@@ -130,6 +130,7 @@ void solve(){
         i++;
     }
     v[i] = true;
+    
 }
 
 int main() {
