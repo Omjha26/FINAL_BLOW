@@ -131,7 +131,7 @@ void solve(){
     }
     v[i] = true;
     i = 0;
-    
+    wh
 }
 
 int main() {
