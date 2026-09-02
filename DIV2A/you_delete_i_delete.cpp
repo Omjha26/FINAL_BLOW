@@ -134,7 +134,8 @@ void solve(){
     while (s[i] != '1'){
         i++;
     }
-    v[i] = 
+    v[i] = true;
+    
     
 }
 
