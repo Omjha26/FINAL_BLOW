@@ -142,7 +142,7 @@ void solve(){
         }
         ns += s[i];
     }
-    
+    coutMM
 }
 
 int main() {
