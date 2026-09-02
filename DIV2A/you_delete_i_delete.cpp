@@ -125,6 +125,7 @@ void solve(){
     cin>>s;
 
     vector<bool> v;
+
     
     for(int i = )
 }
