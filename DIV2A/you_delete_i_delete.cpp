@@ -126,7 +126,7 @@ void solve(){
 
     vector<bool> v;
 
-    for
+    for(int i )
 }
 
 int main() {
