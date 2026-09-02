@@ -129,6 +129,7 @@ void solve(){
     while(s[i] != '0'){
         i++;
     }
+    
 }
 
 int main() {
