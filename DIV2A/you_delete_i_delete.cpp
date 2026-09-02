@@ -125,7 +125,7 @@ void solve(){
     cin>>s;
     int n = s.size();
     vector<bool> v(n , false);
-    for()
+    for(int i =)
 }
 
 int main() {
