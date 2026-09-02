@@ -124,7 +124,9 @@ void solve(){
     string s;
     cin>>s;
 
-    vector<int> 
+    vector<bool> v;
+
+    for
 }
 
 int main() {
