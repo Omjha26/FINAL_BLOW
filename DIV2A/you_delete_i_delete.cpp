@@ -121,6 +121,9 @@ ll inverse(ll x){
 }
 
 void solve(){
+    string s;
+    cin>>s;
+
     
 }
 
