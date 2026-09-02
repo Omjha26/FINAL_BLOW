@@ -124,7 +124,7 @@ void solve(){
     string s;
     cin>>s;
     int n = s.size();
-    vector<bool> v;
+    vector<bool> v(n);
 
 }
 
