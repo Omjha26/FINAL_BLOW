@@ -1,3 +1,4 @@
+//https://codeforces.com/problemset/problem/2245/A
 #include <bits/stdc++.h>
 
 using namespace std;
@@ -120,35 +121,32 @@ ll inverse(ll x){
     return binpow(x , MOD - 2 , MOD);
 }
 
-// minimal save-trigger test comment
-
-//
-//this is the second test
-
-
-// this is the third test
-
-//this is the fourth attempt
-
 void solve(){
-    cn;scan;
+    int n , k;
+    cin>>n>>k;
+    string s;
+    cin>>s;
 
-    sort(a.begin() , a.end());
-    unordered_map<int,int> mp;
-    int freq = 0;
-    int tot = 0;
-    int ele = 0;
-    for(int i = 0 ; i < n ; i++){
-        mp[a[i]]++;
-        tot += a[i];
-        if(mp[a[i]] > freq){
-            ele = a[i];
-        }
-        freq = max(mp[a[i]] , freq);
+    if(2 * k > n){
+        cout<<-1<<endl;
+        return;
     }
-    int unused = max(0LL , 2 * freq - n - 2 );
+    int ans = 0;
+    for(int i = 0 ; i < k ; i++){
+        if(s[i] == 'L'){
+            ans += 1;
+        }
+    }
 
-    cout<< tot - (unused * ele)<<endl;
+    reverse(s.begin() , s.end());
+
+    for(int i = 0 ; i < k ; i++){
+        if(s[i] == 'R'){
+            ans += 1;
+        }
+    }
+
+    cout<<ans<<endl;
 }
 
 int main() {
