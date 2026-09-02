@@ -123,7 +123,7 @@ ll inverse(ll x){
 void solve(){
     string s;
     cin>>s;
-    int n = s.size()
+    int n = s.size();
     vector<bool> v;
 
 }
