@@ -122,7 +122,7 @@ ll inverse(ll x){
 
 // minimal save-trigger test comment
 
-//thi
+//this is second tes
 
 void solve(){
     cn;scan;
