@@ -126,7 +126,9 @@ void solve(){
     int n = s.size();
     vector<bool> v(n , false);
     int i = 0;
-    while(s[i] != '0')
+    while(s[i] != '0'){
+        i++;
+    }
 }
 
 int main() {
