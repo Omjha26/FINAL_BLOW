@@ -138,7 +138,7 @@ void solve(){
     string ns = "";
     for(int i = 0 ; i < n ; i++){
         if(v[i] == true){
-            
+            continue;
         }
     }
     
