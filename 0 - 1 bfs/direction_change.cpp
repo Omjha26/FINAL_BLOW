@@ -81,29 +81,6 @@ vector <vector<int>> countdivisors(int n){
     return divisors;
 }
 
-// to check if the number is a perfect square or not
-bool isPerfectSquare(ll n) {
-    if(n < 0) return false;
-    if(n == 0 || n == 1) return true;
-
-    ll low = 0 , high = n;
-
-    while(low <= high){
-        ll mid = low + (high - low) / 2;
-        ll sq = mid * mid;
-
-        if(sq == n){
-            return true;
-        }
-        if(sq < n){
-            low = mid + 1;
-        }
-        else{
-            high = mid - 1;
-        }
-    }
-    return false;
-}
 
 long long binpow(long long a, long long b, long long m) {
     a %= m;
